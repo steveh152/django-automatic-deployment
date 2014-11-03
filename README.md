@@ -1,0 +1,2 @@
+django-automatic-deployment
+===========================
